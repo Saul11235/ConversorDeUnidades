@@ -1,0 +1,22 @@
+{
+
+  "Temperatura": {
+    "Grados Celsius"  :   ["°C", 1],
+    "Grados Farenheit":   ["°F", 1],
+    "Kelvin"          :   ["K" , 1],
+    "Rankine"         :   ["R" , 1]
+  },
+
+  "Longitud": {
+    "metros"      :   ["m",  1],
+    "centímetros" :   ["cm", 100],
+    "kilómetros"  :   ["km", 0.001]
+  },
+
+  "Area": {
+    "metros2"      :   ["m2",  1],
+    "centímetros2" :   ["cm2", 10000],
+    "kilómetros2"  :   ["km2", 0.000001]
+  }
+
+}
